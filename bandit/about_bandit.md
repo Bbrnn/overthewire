@@ -9,7 +9,9 @@
 --Finishing a level gives a player the information on how to start the next level.\
 --You can use manual to find out how to use a command.\
     *Example* \
-    man command
+    man nmap
+    ![alt text](image.png)\
+
 --Also use your favourite search engine to find out about the commands.
 
 **Check out this resource to understand basic linux commands you will use in this wargame** \

@@ -20,3 +20,8 @@ ls , cd , cat , file , du , find
 
 ![alt text](image.png)
 ![alt text](image-1.png)
+![alt text](image-2.png)
+
+##### LEVEL4 PASSWORD
+
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR

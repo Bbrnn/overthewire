@@ -3,7 +3,7 @@
 ## WARGAMES
 
 -The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.\
--To find out more about a certain wargame, just visit its page
+-To find out more about a certain wargame, just visit its page <https://overthewire.org/wargames/>
 
 ### SUGGESTED ORDER TO PLAY THE GAMES
 
