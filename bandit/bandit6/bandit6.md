@@ -14,24 +14,30 @@ ls , cd , cat , file , du , find , grep
 
 #### SSH LOGIN DETAILS
 
-Username-bandit6\
-Host-bandit.labs.overthewire.org\
-Port-2220\
-Password-
+->Username-bandit6
+
+->Host-bandit.labs.overthewire.org
+
+->Port-2220
+
+->Password-
 P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
-![login ](<Screenshot from 2024-03-26 09-06-58.png>)
-![alt text](image-2.png)
+![login](<Screenshot from 2024-03-26 09-06-58.png>)
 
---I researched how to find a file based on the owner and the group\
+![alt text](<Screenshot from 2024-03-26 09-13-05.png>)
+
+--I researched how to find a file based on the owner and the group.This is the command to use\
 **find / -user username -group groupname -ls**
-![alt text](image-4.png)\
---Using this first command,there were to many errors so i added this command at the end ,2>/dev/null \
+
+--Using this first command,there were to many errors so i added this command at the end ,2>/dev/null
+
 --The *2>/dev/null* 2 is a file descriptor for stderr and > is redirection.
-This command redirects the error messages to /dev/null to mean the erros wont be displayed in the output
+
+This command redirects the error messages to /dev/null to mean the errors won't be displayed in the output
 
 --Finally ,I found the file that matches the properties stated
 
-![level7passowrd](image-3.png)\
---Level 7 password
+![File and the password](<Screenshot from 2024-03-26 09-20-05-1.png>)
+--Level 7 password\
 z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
