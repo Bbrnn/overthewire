@@ -1,7 +1,7 @@
 # ABOUT BANDIT
 
 --Bandit is a wargame  aimed at absolute beginners.\
---It teaches basics needed to play other wargames.
+--It equips one with the basics needed to play other wargames.
 
 ## NOTE
 
