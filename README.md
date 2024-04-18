@@ -7,7 +7,7 @@
 
 ### SUGGESTED ORDER TO PLAY THE GAMES
 
-1.Bandit.Leviathan\
+1.Bandit\
 2.Leviathan/Krypton/Natas\
 3.Narnia\
 4.Behemoth\
