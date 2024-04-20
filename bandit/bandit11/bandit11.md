@@ -24,6 +24,7 @@ Password-\
 ![ssh login](image-1.png)
 
 After logging in,i found the file data.txt and displayed its contents.Indeed as the level goal has specified the contents seemed to be rotated using ROT13
+
 ![alt text](image-2.png)
 
 I used the reading material provided to understand what ROT13 entails and how to decrypt
