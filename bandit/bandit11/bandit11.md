@@ -23,7 +23,7 @@ Password-\
 
 ![ssh login](image-1.png)
 
-After logging in,i found the file data.txt and displayed its contents.Indeed as the level goal has specified the contents seemed to be rotated using ROT13
+After logging in,i found the file data.txt and displayed its contents.Indeed ,as the level goal has specified the string seemed to have being rotated using ROT13
 
 ![alt text](image-2.png)
 
