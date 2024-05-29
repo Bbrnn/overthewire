@@ -26,7 +26,7 @@ ssh, telnet, nc, openssl, s_client, nmap
 * Port-2220
 * Password- fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
 
-![sshlogin](image-2.png)
+ssh bandit14@bandit.labs.overthewire.org -p 2220
 
 I used 'nc'command to connect to localhost port 30000 and then I entered the current password whcih gave me the password for the next level
 ![Solution](image-1.png)
