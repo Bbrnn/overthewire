@@ -7,6 +7,7 @@ The password for the next level can be retrieved by submitting the password of t
 ## Commands you need
 
 ssh, telnet, nc, openssl, s_client, nmap
+
 ![Commands](image.png)
 
 **Helpful reading material**
