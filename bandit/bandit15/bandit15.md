@@ -11,5 +11,20 @@ ssh, telnet, nc, openssl, s_client, nmap
 
 **Helpful reading materials**\
     Secure Socket Layer/Transport Layer Security on Wikipedia<https://en.wikipedia.org/wiki/Transport_Layer_Security#SSL_1.0,_2.0,_and_3.0>\
-    OpenSSL Cookbook - Testing with OpenSSL<https://www.feistyduck.com/library/openssl-cookbook/online/>\
-    
+    OpenSSL Cookbook - Testing with OpenSSL<https://www.feistyduck.com/library/openssl-cookbook/online/>
+
+# SOLUTION
+
+* Username- bandit15
+* Hostname-bandit.labs.overthewire.org
+* Port- 2220
+* Password-jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
+
+First you logging into bandit 15 using\
+ssh bandit15@bandit.labs.overthewire.org -p 2220
+
+![solution](image.png)
+![solution2](image-1.png)
+
+**Bandit15 password**\
+JQttfApK4SeyHwDlI9SXGR50qclOAil1
