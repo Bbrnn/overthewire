@@ -41,6 +41,7 @@ This is different from bandit 15 whereby after logging in using openssl,you get 
 ![save_key](image-5.png)
 
 Now we need to save the rsa key so as to log in to bandit level 17
+
 I created a folder under the tmp folder because we have permissions
     `mkdir -p /tmp/banditPass`
 
