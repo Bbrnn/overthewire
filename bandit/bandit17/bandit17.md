@@ -11,7 +11,7 @@ cat, grep, ls, diff
 
 ![alt text](image-3.png)
 
-# Solution
+## Solution
 
 * Username -bandit17
 * Hostname -localhost
@@ -29,5 +29,6 @@ After logging in,I find the two files mentioned in the level goal.So now we need
 ![after_logging](image-4.png)
 ![bandit18_password](image-2.png)
 
-## Bandit19 password
+## Bandit18 password
+
 hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
