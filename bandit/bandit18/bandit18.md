@@ -25,4 +25,5 @@ I tried to find another way to log in into bandit18\
 Suprisingly,in the level goal the location of the password has beeen mentioned.\
 The location is in a file called readme in the home directory\
 I tried to login again specifying the location of the file\
+![ls](image-3.png)
 
