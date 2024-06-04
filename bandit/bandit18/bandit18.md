@@ -26,8 +26,8 @@ Suprisingly,in the level goal the location of the password has beeen mentioned.\
 The location is in a file called readme in the home directory\
 I tried to login again specifying the location of the file\
 ![ls](image-3.png)
+
 ![cat](image-4.png)
 
-**Bandit 19 password**
+**Bandit 19 password**\
 awhqfNnAbc1naukrpqDYcF95h7HoMTrC
-
