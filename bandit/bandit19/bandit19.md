@@ -21,11 +21,13 @@ I logged in into bandit 19
 
 I found one file `bandit-20 do`
 This file is an ELF 32-bit LSB executable file\
-Running it with this command `./bandit-20 do`,I am given an example of the command to run\
+Checkout this link to understand how to run an ELF 32-bit LSB executable file
+
+Running the file with this command `./bandit-20 do`,I am given an example of the command to run\
 After running the command, I find the SUID\
 ![suid](image-1.png)
 I then find the password for bandit20 from the folder we were told in the level goal section `/etc/bandit_pass`
 ![solution](image-2.png)
 
-**Bandit 20 password**
+**Bandit 20 password**\
 VxCazJaVykI6W36BkBU0mJTCM8rR95XT
