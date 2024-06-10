@@ -10,6 +10,7 @@ cron, crontab, crontab(5) (use “man 5 crontab” to access this)
 ![commands](image.png)
 
 ## Solution
+
 * Username- bandit21
 * Hostname- bandit.labs.overthewire.org
 * Port- 2220
@@ -17,9 +18,9 @@ cron, crontab, crontab(5) (use “man 5 crontab” to access this)
 
 Login to bandit22 with the usual command \
       `ssh bandit21@bandit.labs.overthewire.org -p 2220`
-      
+
 I navigate to the folder\
-      `/ectc/cron.d`
+      `/etc/cron.d`
 
 ![cronjob](image-1.png)
 
